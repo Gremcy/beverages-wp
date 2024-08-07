@@ -1,0 +1,194 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: spraga\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-15 14:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: spraga"
+
+msgid "Напої"
+msgstr ""
+
+msgid "Ваше прізвище та ім’я"
+msgstr ""
+
+msgid "Номер телефону"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Заповніть правильно це поле"
+msgstr ""
+
+msgid "Тип бізнесу (кав’ярня, магазин чи інше)"
+msgstr ""
+
+msgid "Місто та область"
+msgstr ""
+
+msgid "відправити"
+msgstr ""
+
+msgid "зачекайте"
+msgstr ""
+
+msgid "Запитання"
+msgstr ""
+
+msgid "Акція"
+msgstr ""
+
+msgid "про напій"
+msgstr ""
+
+msgid "Інші напої"
+msgstr ""
+
+msgid "Зверніть увагу!"
+msgstr ""
+
+msgid "купити"
+msgstr ""
+
+msgid "Кошик"
+msgstr ""
+
+msgid "Доставка здійснюється Новою поштою."
+msgstr ""
+
+msgid "Кур’єрська доставка"
+msgstr ""
+
+msgid "грн"
+msgstr ""
+
+msgid "У відділення"
+msgstr ""
+
+msgid "Самовивіз за адресою"
+msgstr ""
+
+msgid "безкоштовно"
+msgstr ""
+
+msgid "скляна пляшка"
+msgstr ""
+
+msgid "жерстяна банка"
+msgstr ""
+
+msgid "Ящик"
+msgstr ""
+
+msgid "додати в кошик"
+msgstr ""
+
+msgid "На жаль, кошик порожній"
+msgstr ""
+
+msgid "Всього"
+msgstr ""
+
+msgid "шт"
+msgstr ""
+
+msgid "Доставка"
+msgstr ""
+
+msgid "оплатити"
+msgstr ""
+
+msgid "Особисті дані"
+msgstr ""
+
+msgid "У відділення Нової пошти"
+msgstr ""
+
+msgid "Кур’єрська доставка Нова пошта"
+msgstr ""
+
+msgid "Самовивіз"
+msgstr ""
+
+msgid "Місто/село"
+msgstr ""
+
+msgid "Відділення Нової пошти"
+msgstr ""
+
+msgid "Оплата"
+msgstr ""
+
+msgid "Онлайн оплата"
+msgstr ""
+
+msgid "Адреса доставки"
+msgstr ""
+
+msgid "Оплата замовлення"
+msgstr ""
+
+msgid "на сайті"
+msgstr ""
+
+msgid "Ваше прізвище, ім’я та по батькові"
+msgstr ""
+
+msgid "Нічого не знайдено"
+msgstr ""
+
+msgid "продовжити покупки"
+msgstr ""
+
+msgid "Промокод"
+msgstr ""
+
+msgid "Введіть промокод"
+msgstr ""
+
+msgid "застосувати"
+msgstr ""
+
+msgid "Знижка"
+msgstr ""
+
+msgid "Такий промокод не знайдено"
+msgstr ""
+
+msgid "Цей промокод вже використано"
+msgstr ""
+
+msgid "Термін дії цього промокоду завершився"
+msgstr ""
+
+msgid "видалити"
+msgstr ""
+
+msgid "Промокод не діє на акційні товари"
+msgstr ""
+
+msgid "Знижка по промокоду"
+msgstr ""
+
+msgid "Поверніться до товарів і додайте їх в кошик."
+msgstr ""
+
+msgid "в магазин"
+msgstr ""
+
+msgid "промокод застосовано"
+msgstr ""
+
+msgid "Розроблено"
+msgstr ""

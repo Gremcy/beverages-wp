@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spraga\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-13 13:09+0000\n"
+"PO-Revision-Date: 2024-03-15 14:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: spraga"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Інші напої"
+msgstr "Other drinks"
+
+msgid "Адреса доставки"
+msgstr "Delivery address"
+
+msgid "Акція"
+msgstr "Promotion"
+
+msgid "Ваше прізвище та ім’я"
+msgstr "Your surname and first name"
+
+msgid "Ваше прізвище, ім’я та по батькові"
+msgstr "Your surname, first name and patronymic"
+
+msgid "Введіть промокод"
+msgstr "Enter promo code"
+
+msgid "Всього"
+msgstr "Total"
+
+msgid "Відділення Нової пошти"
+msgstr "Branch of the Nova Poshta"
+
+msgid "Доставка"
+msgstr "Delivery"
+
+msgid "Доставка здійснюється Новою поштою."
+msgstr "Delivery is carried out by Nova Poshta."
+
+msgid "Запитання"
+msgstr "Question"
+
+msgid "Заповніть правильно це поле"
+msgstr "Please fill this field correctly"
+
+msgid "Зверніть увагу!"
+msgstr "Pay attention!"
+
+msgid "Знижка"
+msgstr "Discount"
+
+msgid "Знижка по промокоду"
+msgstr "Discount by promo code"
+
+msgid "Кошик"
+msgstr "Basket"
+
+msgid "Кур’єрська доставка"
+msgstr "Delivery by courier"
+
+msgid "Кур’єрська доставка Нова пошта"
+msgstr "Courier delivery by Nova Poshta"
+
+msgid "Місто та область"
+msgstr "City and region"
+
+msgid "Місто/село"
+msgstr "City/village"
+
+msgid "На жаль, кошик порожній"
+msgstr "Unfortunately, the basket is empty"
+
+msgid "Напої"
+msgstr "Drinks"
+
+msgid "Номер телефону"
+msgstr "Phone number"
+
+msgid "Нічого не знайдено"
+msgstr "Nothing found"
+
+msgid "Онлайн оплата"
+msgstr "Online payment"
+
+msgid "Оплата"
+msgstr "Payment"
+
+msgid "Оплата замовлення"
+msgstr "Order payment"
+
+msgid "Особисті дані"
+msgstr "Personal information"
+
+msgid "Поверніться до товарів і додайте їх в кошик."
+msgstr "Go back to the products and add them to the cart."
+
+msgid "Промокод"
+msgstr "Promo code"
+
+msgid "Промокод не діє на акційні товари"
+msgstr "Promo code is not valid for promotional products"
+
+msgid "Розроблено"
+msgstr ""
+
+msgid "Самовивіз"
+msgstr "Self-delivery "
+
+msgid "Самовивіз за адресою"
+msgstr "Self-delivery at the address"
+
+msgid "Такий промокод не знайдено"
+msgstr "No such promo code was found"
+
+msgid "Термін дії цього промокоду завершився"
+msgstr "This promo code has expired"
+
+msgid "Тип бізнесу (кав’ярня, магазин чи інше)"
+msgstr "Type of business (cafe, shop or other)"
+
+msgid "У відділення"
+msgstr "To the branch"
+
+msgid "У відділення Нової пошти"
+msgstr "To the branch of Nova Poshta"
+
+msgid "Цей промокод вже використано"
+msgstr "This promo code has already been used"
+
+msgid "Ящик"
+msgstr "Box"
+
+msgid "безкоштовно"
+msgstr "free"
+
+msgid "в магазин"
+msgstr "to the shop"
+
+msgid "видалити"
+msgstr "delete"
+
+msgid "відправити"
+msgstr "send"
+
+msgid "грн"
+msgstr "UAH"
+
+msgid "додати в кошик"
+msgstr "add to basket"
+
+msgid "жерстяна банка"
+msgstr "tin can"
+
+msgid "застосувати"
+msgstr "to apply"
+
+msgid "зачекайте"
+msgstr "Wait"
+
+msgid "купити"
+msgstr "buy"
+
+msgid "на сайті"
+msgstr "on the website"
+
+msgid "оплатити"
+msgstr "pay"
+
+msgid "про напій"
+msgstr "about a drink"
+
+msgid "продовжити покупки"
+msgstr "continue shopping"
+
+msgid "промокод застосовано"
+msgstr "promo code applied"
+
+msgid "скляна пляшка"
+msgstr "glass bottle"
+
+msgid "шт"
+msgstr "pcs"

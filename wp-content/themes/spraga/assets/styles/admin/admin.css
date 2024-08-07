@@ -1,0 +1,182 @@
+/* WP GENERAL */
+#wp-admin-bar-wp-logo,
+#wp-admin-bar-comments,
+#wp-admin-bar-new-content,
+#wp-admin-bar-updates,
+#wp-admin-bar-view,
+#footer-left,
+#update-nag,
+.update-nag,
+.update-plugins,
+#wp-version-message > a,
+#dashboard_right_now .main ul,
+#footer-upgrade,
+#bulk-action-selector-top option[value="edit"],
+#bulk-action-selector-bottom option[value="edit"],
+.metabox-prefs.view-mode,
+#pageparentdiv .inside > p,
+#pageparentdiv .inside > select,
+#pageparentdiv .inside > input,
+#postimagediv,
+#preview-action,
+.handle-order-higher,
+.handle-order-lower,
+.row-actions .inline,
+.row-actions .view,
+.edit-tags-php .term-description-wrap,
+.term-php .term-description-wrap,
+[id^="tagsdiv"],
+#filter-by-date,
+#post-query-submit,
+.post-type-order .page-title-action{
+    display: none!important;
+}
+#misc-publishing-actions {
+    padding: 0 0 6px;
+}
+.dashicons-yes :before{
+    color: #58bc00;
+}
+#pageparentdiv .inside > p.page-template-label-wrapper,
+#pageparentdiv .inside > select[name="page_template"]{
+    display: block!important;
+}
+.media-frame-menu,
+.media-frame-menu-heading{
+    display: none!important;
+}
+.media-frame-title,
+.media-frame-toolbar,
+.media-frame-router,
+.media-frame-content{
+    left: 0;
+}
+/* END */
+
+/* IMG */
+.wp-list-table th#img{
+    width: 80px!important;
+}
+.wp-list-table td.img{
+    text-align: center;
+}
+.wp-list-table td.img img{
+    width: 90%!important;
+    height: auto!important;
+}
+/* END */
+
+/* ADMIN PROFILE */
+.user-new-php .form-table tr:nth-child(3),
+.user-new-php .form-table tr:nth-child(4),
+.user-new-php .form-table tr:nth-child(5){
+    display: none!important;
+}
+#profile-page #your-profile h2,
+#profile-page #your-profile h3,
+#profile-page #your-profile .user-rich-editing-wrap,
+#profile-page #your-profile .user-admin-color-wrap,
+#profile-page #your-profile .user-comment-shortcuts-wrap,
+#profile-page #your-profile .user-admin-bar-front-wrap,
+#profile-page #your-profile .user-first-name-wrap,
+#profile-page #your-profile .user-last-name-wrap,
+#profile-page #your-profile .user-sessions-wrap,
+#profile-page #your-profile .user-display-name-wrap,
+#profile-page #your-profile .user-email-wrap,
+#profile-page #your-profile .user-url-wrap,
+#profile-page #your-profile .user-description-wrap,
+#profile-page #your-profile .user-language-wrap,
+#profile-page #your-profile .application-passwords,
+#profile-page #your-profile .user-generate-reset-link-wrap,
+#profile-page #your-profile .user-syntax-highlighting-wrap{
+    display: none!important;
+}
+/* END */
+
+/* ACF */
+.acf-postbox .postbox-header{
+    display: none!important;
+}
+.acf-field .acf-label{
+    margin-bottom: 5px;
+}
+.acf-fields > .acf-field{
+    padding: 12px;
+}
+.acf-field.line{
+    border-bottom: #CCCCCC solid 3px;
+    margin-bottom: 15px!important;
+}
+.term-php .acf-field.subtitle label{
+    text-align: left;
+}
+.acf-field.input_hidden .acf-input-append,
+.acf-field.input_hidden .acf-input-wrap,
+.acf-field.input_hidden .acf-radio-list,
+.acf-field.input_hidden .acf-image-uploader,
+.acf-field.input_hidden .acf-true-false,
+.acf-field.input_hidden .select,
+.acf-field.input_hidden span.select2{
+    display: none;
+}
+.acf-field.subtitle .acf-label, .acf-field.subtitle label{
+    margin: 5px 0 0;
+}
+.acf-field.subtitle label{
+    margin: 1px 0 0;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    color: #999;
+}
+.acf-field.subtitle label:before{
+    font: 400 18px/1 dashicons;
+    content: "\f348";
+    speak: none;
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: -1px;
+    padding-right: 3px;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.acf-postbox .acf-hndle-cog,
+.acf-postbox .handlediv,
+.acf-postbox h2.hndle{
+    display: none!important;
+}
+.acf-field p.description{
+    font-size: 12px;
+    font-style: normal;
+}
+.acf-fields > .acf-tab-wrap .acf-tab-group{
+	border-top: none;
+}
+/* END */
+
+/* QTRANSLATE */
+#wp-admin-bar-language,
+#qtranxs-meta-box-lsb,
+#qtranxs_user_config,
+.post-php .qtranxs-lang-switch-wrap,
+.post-new-php .qtranxs-lang-switch-wrap,
+.qtranxs-lang-copy{
+    display: none!important;
+}
+#post-body-content .qtranxs-lang-switch-wrap:first-child{
+    display: block!important;
+    margin-bottom: 20px;
+}
+/* END */
+
+/* LOCO TRANSLATE */
+.loco-admin .loco-message,
+.loco-admin .dashicons-admin-plugins,
+.loco-admin .loco-list-plugins,
+.loco-admin .dashicons-admin-settings,
+.loco-admin .nav-tab-loco,
+.loco-translate_page_loco-theme .qtranxs-lang-switch-wrap{
+    display: none!important;
+}
+/* END */
